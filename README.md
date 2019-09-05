@@ -10,3 +10,5 @@ Ran a commit but did not see this update on GitHub
 Pushed the commit from the GitHub desktop application - but have not been able ro push directly from RubyMine
 
 I have added my personal API token. Lets test if I can push commits from RubyMine
+
+Success! I can now commit and push from RubyMine!
