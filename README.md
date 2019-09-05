@@ -12,3 +12,5 @@ Pushed the commit from the GitHub desktop application - but have not been able r
 I have added my personal API token. Lets test if I can push commits from RubyMine
 
 Success! I can now commit and push from RubyMine!
+
+i am re attemoting to commmit from rubymine
