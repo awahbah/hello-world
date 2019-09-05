@@ -13,4 +13,4 @@ I have added my personal API token. Lets test if I can push commits from RubyMin
 
 Success! I can now commit and push from RubyMine!
 
-i am re attemoting to commmit from rubymine
+i am re attempting to commmit from rubymine
