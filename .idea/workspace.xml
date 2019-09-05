@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d69a462-baa4-4157-875b-3336b3587d9d" name="Default" comment="Added a line to test commits - pt2">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="4d69a462-baa4-4157-875b-3336b3587d9d" name="Default" comment="Added a line to test commits - pt2" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +93,7 @@
       <updated>1567661030273</updated>
       <workItem from="1567661031446" duration="1029000" />
       <workItem from="1567707011352" duration="27000" />
-      <workItem from="1567707050349" duration="146000" />
+      <workItem from="1567707050349" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="Added a line to test commits">
       <created>1567661311321</created>
@@ -136,7 +134,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1202000" />
+    <option name="totallyTimeSpent" value="1244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="23" width="2560" height="1417" extended-state="6" />
